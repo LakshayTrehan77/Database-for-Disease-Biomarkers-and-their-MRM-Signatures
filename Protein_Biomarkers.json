@@ -1,0 +1,4007 @@
+[{
+  "_id": {
+    "$oid": "67936b5ed197c75061fead84"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Galectin-3",
+    "UniProt ID": "P17931",
+    "Protein Sequence": "MAPWVPAPWPGVAVALALSLILCVSWLSATYSSPEGKVSFLSAPYAYCTFYPDNNYPHRYDTPFGSAPLLEVKIRKGTTVGTLRGLTDQSFVKLQNDRFLDGRNRGISFDFVGFSVYSKSEDQHALFSPGDVTSAANLTAHVDAYEANLALVLVGKHMPFKLADFQLVVSLDKVGNVHQV",
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "sleep disorders",
+      "insomnia",
+      "insufficient sleep time",
+      "obstructive sleep apnea",
+      "cardiovascular disease"
+    ],
+    "Source Material": "bloodstream",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "39288581"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Gal-3",
+      "Galectin-3",
+      "Mac-2",
+      "hMac-2",
+      "L-31",
+      "Lect 3",
+      "LGALS3"
+    ],
+    "Verification": "Confirmed to be a protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b60d197c75061fead85"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "cancer",
+    "Source Material": "body fluids",
+    "Organism": "Homo sapiens",
+    "Technique Used": "proteomics",
+    "PubMed ID": "24361552"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b6ad197c75061fead86"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "disease states",
+    "Source Material": "plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry",
+    "PubMed ID (PMID)": "21062094"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b6ed197c75061fead87"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Prdx6",
+      "Hsp70-1A/B",
+      "μ-calpain",
+      "MDH1",
+      "ENO3",
+      "LDH-B"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Meat color",
+      "pH decline"
+    ],
+    "Source Material": "Longissimus thoracis muscles",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "26160326"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Verification": "Proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [],
+    "Accurate Categorization": "Proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b72d197c75061fead88"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Protein S",
+    "UniProt ID": "P07225",
+    "Protein Sequence": "MPLLLLLGAALGSFLLPEVPLKLTLSQQVSSNCSQLQEPLVLPSNDDLDFNEALNCPAGRADCSPAYHYCPYKFGCQQCLWGGQGLTCEKCFYRAPHRPKAGKLCPYCRGFGPDAAYCHTEAEGTDCQKYLSLCARPCGPGLTPETLTESCSSSHKSSLLQQRGSGLTVSTQTETLEEGLAALQTGTSYVKIDGLVQLHHLRRCIFQPKWKLQIFQTAVELTKDGDLSNDYSDLMNKEDACFYLDESDCHNNKACDSEDECFCTDFLGYCFHSGQCLAWTEVAPCGHKDAPWDFVVDDTDCDAAVHEVPHFSSGIVSTVPPSFCLPFCNGDDDCKAHLYGGSWVPCLTPEDGLAVNVPLLSRYDLPGPGDDGLSLHDLDLLQQTIALQQQSSSTHTTTTETTPLLPLPEPEEEEPGGRPLVLSQKHQLKPG",
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "systemic lupus erythematosus",
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "21067626"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "PROS1",
+      "PS",
+      "THPH6"
+    ],
+    "Verification": "Protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b75d197c75061fead89"
+  },
+  "Protein Name(s)": "vitamin K-dependent protein S",
+  "UniProt ID": "P07225",
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "Alzheimer's disease",
+  "Source Material": "serum, hippocampus",
+  "Organism": "Homo sapiens",
+  "Technique Used": "LC-MS, Western blot, immunohistochemistry, Immunocytochemistry",
+  "PubMed ID (PMID)": "31727875",
+  "Alternative Protein Names": "PROS1, Protein S",
+  "Verification": "Protein",
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67936b78d197c75061fead8a"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Serum Albumin"
+    ],
+    "UniProt ID": [
+      "P02768"
+    ],
+    "Protein Sequence": null,
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Ovarian Cancer"
+    ],
+    "Source Material": [
+      "serum",
+      "plasma"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "Mass Spectrometry",
+      "SELDI-TOF"
+    ],
+    "PubMed ID": "14757941"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "HSA",
+      "Albumin"
+    ],
+    "Verification": "Confirmed"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b7ed197c75061fead8b"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Neutrophil gelatinase-associated lipocalin",
+      "Cystatin C",
+      "Interleukin-18",
+      "Kidney injury molecule-1",
+      "Liver-type fatty acid-binding protein"
+    ],
+    "UniProt ID": [
+      "P80188",
+      "P01034",
+      "P14985",
+      "Q9H2Z5",
+      "P07148"
+    ],
+    "Protein Sequence": [
+      "MKWLVLGLALLTFTVTQGASLPEEKEFADIVNDTCIKDASTTFLQKNGLFAELYLNHAHGDYTPDDSLLPGVHVVRFK",
+      "MDSFQPIRLSCSERQKIYGFQTSGKMALAFTGPDVRDAEKYLVSAHQVRYKLSFGSMAWVDQGDDLDHRELCYF",
+      "MYPLIHKGKKQQVILFGSVHDPLTDDIVPKFLFVDERNSALDDKCQSLFLSHRSHHPSDSYRIFHVGLA",
+      "MGCVTSLLLLLCGAAAACGSPEETLPSAVQAKLCVLEGSEVTWGPDSQQLCKGATVCGTDCDVECN",
+      "MPELAVQKTVETLKNLQAYLPDYYKGEEFRVGLVKALVGNIKGVTIEKEFELDGTFVIKRE"
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "acute kidney injury",
+      "chronic kidney disease"
+    ],
+    "Source Material": [
+      "plasma",
+      "urine"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID": "18277143"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      [
+        "Lipocalin-2",
+        "LCN2",
+        "24p3 protein",
+        "Neutrophil Lipocalin",
+        "Siderocalin"
+      ],
+      [
+        "Cystatin-3",
+        "Gamma-trace"
+      ],
+      [
+        "Interferon-gamma-inducing factor",
+        "IGIF"
+      ],
+      [
+        "Hepatitis A virus cellular receptor 1",
+        "KIM-1",
+        "T-cell immunoglobulin and mucin domain protein 1"
+      ],
+      [
+        "Fatty acid-binding protein, liver",
+        "FABPL",
+        "L-FABP"
+      ]
+    ],
+    "Verification": "Confirmed to be proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed protein categorization"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936b84d197c75061fead8c"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CD63",
+      "CD9",
+      "CD81",
+      "HSP72"
+    ],
+    "UniProt ID": [
+      "P08962",
+      "P40240",
+      "P60033",
+      "P08107"
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "Conditioned medium of HEK293T cells",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Single-particle interferometric reflectance imaging sensor (SP-IRIS)",
+    "PubMed ID (PMID)": "35068480"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      [
+        "Lysosomal-associated membrane protein 3",
+        "LAMP-3",
+        "Tumor-associated antigen ME491",
+        "Granulophysin",
+        "Ocular melanoma-associated antigen"
+      ],
+      [
+        "Motility-related protein 1",
+        "MRP-1",
+        "Tetraspanin",
+        "p24"
+      ],
+      [
+        "Target of the antiproliferative antibody 1",
+        "TAPA-1",
+        "Tetraspanin-28",
+        "Tetraspanin-like transmembrane protein"
+      ],
+      [
+        "Heat shock 70 kDa protein 1A",
+        "HSP70-1A",
+        "HSP70-1",
+        "HSP70I",
+        "Heat shock 70 kDa protein 1B",
+        "HSP70-1B",
+        "HSP70-2",
+        "HSP70T"
+      ]
+    ],
+    "Verification": "Confirmed as proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dcf96c93a0f53b752b3"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Galectin-3",
+    "UniProt ID": "P17931",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "insomnia",
+      "insufficient sleep time",
+      "obstructive sleep apnea",
+      "cardiovascular disease"
+    ],
+    "Source Material": "bloodstream",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "39288581"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Gal-3",
+      "L-31",
+      "Mac-2",
+      "MAC2",
+      "Galactose-binding lectin 3",
+      "hGAL3"
+    ],
+    "Verification": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dd196c93a0f53b752b4"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "cancer",
+    "Source Material": "easily accessible body fluids",
+    "Organism": "Homo sapiens",
+    "Technique Used": "proteomics",
+    "PubMed ID (PMID)": "24361552"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dd496c93a0f53b752b5"
+  },
+  "Protein Name(s)": null,
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": null,
+  "Source Material": null,
+  "Organism": "Homo sapiens",
+  "Technique Used": "Electrochemical methods",
+  "PubMed ID (PMID)": "27428515",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67936dd796c93a0f53b752b6"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CD109 antigen",
+      "endosialin"
+    ],
+    "UniProt ID": [
+      "P35372",
+      "Q9HC70"
+    ],
+    "Protein Sequence": [
+      "Full protein sequence for CD109 can be retrieved from UniProt ID P35372",
+      "Full protein sequence for Endosialin can be retrieved from UniProt ID Q9HC70"
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "gestational diabetes mellitus"
+    ],
+    "Source Material": [
+      "placental tissue",
+      "maternal plasma"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "data-independent acquisition proteomics",
+    "PubMed ID (PMID)": "35385222"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "CD109",
+      "TEM1, Tumor endothelial marker 1, CD248"
+    ],
+    "Verification": "Both CD109 and endosialin are proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The extracted information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dd996c93a0f53b752b7"
+  },
+  "Protein Name(s)": null,
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "disease states",
+  "Source Material": "plasma",
+  "Organism": "Homo sapiens",
+  "Technique Used": "mass spectrometry",
+  "PubMed ID (PMID)": "21062094",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67936de396c93a0f53b752b8"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Protein S",
+    "UniProt ID": "P07225",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "systemic lupus erythematosus",
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "21067626"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "PROS1, PROS, PS"
+  },
+  "Verification": "Protein",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936de696c93a0f53b752b9"
+  },
+  "Protein Name(s)": "vitamin K-dependent protein S",
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "Alzheimer's disease",
+  "Source Material": "serum",
+  "Organism": "Homo sapiens",
+  "Technique Used": "LC-MS",
+  "PubMed ID (PMID)": "31727875",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67936def96c93a0f53b752ba"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Neutrophil gelatinase-associated lipocalin",
+      "Cystatin C",
+      "Interleukin-18",
+      "Kidney injury molecule-1",
+      "Liver-type fatty acid-binding protein"
+    ],
+    "UniProt ID": [
+      "P80188",
+      "P01034",
+      "P14789",
+      "Q9H1V2",
+      "P07148"
+    ],
+    "Protein Sequence": [
+      "Not available from document.",
+      "Not available from document.",
+      "Not available from document.",
+      "Not available from document.",
+      "Not available from document."
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "acute kidney injury",
+      "chronic kidney disease"
+    ],
+    "Source Material": [
+      "plasma",
+      "urine"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "18277143"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Lipocalin-2",
+      "Cystatin-3",
+      "IL-18",
+      "Hepatitis A virus cellular receptor 1",
+      "FABP1"
+    ],
+    "Verification": "Confirmed to be proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Correctly categorized as proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936df396c93a0f53b752bb"
+  },
+  "Protein Name(s)": [
+    "CD63",
+    "CD9",
+    "CD81",
+    "HSP72"
+  ],
+  "UniProt ID": [
+    "P08962",
+    "P21926",
+    "P60033",
+    "P08107"
+  ],
+  "Protein Sequence": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Isoforms": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Disease Name(s)": null,
+  "Source Material": "conditioned medium of HEK293T cells",
+  "Organism": "Homo sapiens",
+  "Technique Used": "single-particle interferometric reflectance imaging sensor (SP-IRIS)",
+  "PubMed ID (PMID)": "35068480",
+  "Alternative Protein Names": [
+    "Lysosomal-associated membrane protein 3",
+    "Tetraspanin CD9",
+    "Target of the antiproliferative antibody 1",
+    "Heat shock 70 kDa protein 1A/1B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67936df596c93a0f53b752bc"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Neoplasms",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "Immunohistochemistry",
+    "PubMed ID (PMID)": "24525140"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Biomarker Type": "Proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Validated as a protein biomarker context"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936df796c93a0f53b752bd"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "protein biomarker",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "human serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Surface-enhanced Raman scattering (SERS)",
+    "PubMed ID (PMID)": "26874111"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": true,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dfa96c93a0f53b752be"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "top-down mass spectrometry",
+    "PubMed ID (PMID)": "21477672"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Verified": "Yes, the document discusses proteins as biomarkers"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Yes, information aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dfc96c93a0f53b752bf"
+  },
+  "biomarker_information": {
+    "protein_names": null,
+    "uniprot_ids": null,
+    "protein_sequences": null,
+    "isoforms": null
+  },
+  "study_and_source_information": {
+    "disease_names": null,
+    "source_material": "body fluids and tissues",
+    "organism": "Homo sapiens",
+    "technique_used": "2D capillary liquid chromatography (LC) and tandem mass spectrometry (MS/MS)",
+    "pubmed_id": "16445351"
+  },
+  "additional_information": {
+    "alternative_protein_names": null
+  },
+  "validation": {
+    "is_protein": true,
+    "isoform_implication": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67936dfe96c93a0f53b752c0"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Saliva Proteins",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "various diseases",
+    "Source Material": "saliva",
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry-based proteomic analysis, liquid chromatography, two-dimensional gel electrophoresis",
+    "PubMed ID (PMID)": "36378438"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "The document focuses on identifying protein biomarkers within saliva."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e0196c93a0f53b752c1"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "neutrophil gelatinase-associated lipocalin",
+    "UniProt ID": "P80188",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "acute kidney injury",
+    "Source Material": "urine",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "29943660"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "Lipocalin-2, LCN2, 24p3 protein, neutrophil lipocalin, siderocalin",
+    "Verification": "The biomarker refers to a protein."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information aligns with proteins and not other biological molecules."
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e0496c93a0f53b752c2"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "SIRPA",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "cardiac injury",
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "ELISA, Western blot, Mass Spectrometry",
+    "PubMed ID (PMID)": "27474398"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "tyrosine-protein phosphatase non-receptor type substrate 1 alpha",
+    "Verification": "The identified biomarker refers to a protein (not gene)"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed to align with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e0696c93a0f53b752c3"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Lung cancer",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "flow cytometry",
+      "mass cytometry",
+      "microfluidics",
+      "chip technologies",
+      "chemical cytometry",
+      "single-cell western blotting"
+    ],
+    "PubMed ID (PMID)": "29943297"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": null,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e1196c93a0f53b752c4"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "ceruloplasmin",
+    "UniProt ID": "P00450",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "neurological disorders",
+    "Source Material": "cerebrospinal fluid",
+    "Organism": "Homo sapiens",
+    "Technique Used": "isobaric tags for relative and absolute quantification (iTRAQ), Western blot analysis",
+    "PubMed ID (PMID)": "17853512"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "Ferroxidase,  CP",
+    "Verification": "The identified biomarker is ceruloplasmin which refers to a protein and not a gene."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information provided aligns with a protein (Ceruloplasmin) as requested."
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e980df7b3fd5be5fb08"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Galectin-3",
+    "UniProt ID": "P17931",
+    "Protein Sequence": "MAGNGLFGPELAHFPAPGSMPRTLACLPDSQPGSTCHVHFKPQGLDLSVTVPLNNLHMGQKFTRVQLNLEAKLSSG",
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "sleep disorders",
+      "insomnia",
+      "insufficient sleep time",
+      "obstructive sleep apnea",
+      "cardiovascular disease"
+    ],
+    "Source Material": "bloodstream",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "39288581"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Lgals3",
+      "lectin galactoside-binding soluble 3",
+      "MAC-2",
+      "GAL3"
+    ],
+    "Verification": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e9b0df7b3fd5be5fb09"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "cancer",
+    "Source Material": "body fluids",
+    "Organism": "Homo sapiens",
+    "Technique Used": "proteomics",
+    "PubMed ID (PMID)": "24361552"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "The article refers to protein biomarkers in the context of cancer detection.",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The extracted information focuses on protein biomarkers, not other biological molecules"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936e9d0df7b3fd5be5fb0a"
+  },
+  "Protein Name(s)": null,
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": null,
+  "Source Material": null,
+  "Organism": "Homo sapiens",
+  "Technique Used": "Electrochemical methods",
+  "PubMed ID (PMID)": "27428515",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67936eaa0df7b3fd5be5fb0b"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CD109 antigen",
+      "endosialin"
+    ],
+    "UniProt ID": [
+      "P48455",
+      "Q9HCU9"
+    ],
+    "Protein Sequence": [
+      "MAVLCALLGAALGSCAGGRARRCALPLGPACAGAVRAAPRAPSPWGRRGALLLRPLLGGTGLRGLLEPLQLQAPAGQLGPCPPGTPWLLHFRGVLSPSPPYSPNSPATLRVRVPAEEDRGALLDLSFVAAVRRRRGLLELSASRRSSLPVLSDVLLTLSPGTGLNLGARLPLLGLDHRLEHFRLEQLSPQALRALHLHGAALLHGRGRGAAVLPCPATQLSLRLEELGGPALSSHLRPLAPLRRLYLSWLRSGSADLLTFLSRHLLPLHTRVRGVRLRAELLYGRSRAREPRGLAPLLLGQLSPVLAAHVWDLPLTTRDLRSVLGADSLPVRQAGLVLQLRGDWLGVLRPGVLDAGRLALLRAHRDLDFQALRDASRALAHRGRGAALEGPALQGLRVLDLSSYRALALRHGLGPPRVRVSWLHSRGLRPAARLSQLLAGRLELDGRLGRGRGTPALLGLALLLGLRGAVTLPAHLRVLRGLGPQLPRLLASRGLQLGAHAGLLRLDHALVSPGPLLLVRLGLHRQLRVVAGVLCQLYGAHRVLGSPPLRVLSGLRGGRTRHLHLALLRGRGLHPHRRRRWLVRALAAAVVLHPVLAPALLAAHPLPAAFLHLGALRRAGALGLGGTGRVALLGLHGLALPPALAVAVLCLLSRVLATAAALELSRASVFLAAHVGPRAEALEPLGAHSLGGLGAALSALVRLALPRADPGVSRVPRRLRRGSLGVYFLRLRALALRAALAAGLAQLRFLSLRLELGALGGQLRAALAGLSGGTALLAAAVLAGLRGAALGGRFGPWLLLPRLRVLTRLAALALLRRGVLVPAVVGAERLADQLLLRAAGGGPSLEVRWQLGGSLARRLPLLGPLLLAAGGLRVLGTLQLLRERGLRGPPLPGLQPAHLLLSRQLQAAEPGLRPATVLVRGLARLRAAASLPLEQLGVPLPGLRLQALRLQLADLQAAVAAADAPELPGRGLRALALLPLQAGLGPALPALLLSLGLRALALRLRGPLAPHLALLLRALGPVSPPLLGRGLQLRALRRAHGLRGALSVALPRALLLAALLGVLAGGGGGARRRRARRVLLLAALLAAGLGALRP",
+      "MGRLALLPGALLHHLTLGVAWSVSSLLPLPPWAGATARGPQLELQLRAGPEEEDEEAGAGDCSKSSYCNWVPQLTQAVPCSPGAFTVDDCESQSCPEPDLPPKSCVPPCAPWQQCPDPCLRVQCSTGSEACGPCPKGRFLCEELCKDSNPGSRCAVCATDGFRCEQLCPLGTLCQDGRVHTYDCACRCRDRGFAQLSCSPCSATADACVADCVTSPLKDCARCDTDGFSCRTCIPPLTLPPERASSPCQDCPARGPCCQPCPAGVPRGQGTCLLPCCPHRPDCLQCQPTSGCFPCQPPLAGQCPQCGLGDSRDCQDGCAGVGFCQICPLQGHQCHPDCLADGFYCQLCPDGTECPVPCYRGAVDCFPCPEPRCQAESACPDGAFLCEEICNPPDPGTACAYCADQGFRCSNCASPLGPRCGPCCPQAPAPRGFCARLCKPDSQGEVCLRCAGHGFCKRCYPVPGFQCADCLSQDTCHRDCDRDGFCQLCCSTPEGPALLLLSALVSVLLLFLAITVLFLYLCQYRRRGSHKLHQYVGLTGEETPLTQLPLGLFDPETDPGLAVQLFQQLEETLSEALVRAAATSSLDAGAGLSFLQECLAGRHLLEQLRALREPGGPRGQARGRPEPDDSDGEGEEEEPFSRSRRPEDVPLDSQLRRRPLTPLEDEGDALGLSQYEDVGGLLPDARAGPLPRLQLQSPAPAPGGSLGAEDLEGLAGPRGLARHLWGRVDPAGTLPLLLEASALAPARLQPGADRGPAATARGDWAAADPRPDRPPTRLPGASRLLRTLTLALAVGLPPLGLSLGGVLPAAVLVYGVLLLCGLVAAALCLLHCLAVGLRWRHQLHLTETLVPAADTPASSSAPARAVTSEGLAALLVTRTVKLLRSVPLLQRLPAVLPSGLPAHLTLLEALPGALLPLLLLLPRGRPLLWGAWLGGYHLHRCLPAAGPRLLAGALPLVAVPLLLPAQGVPGLLPGGPGLVPVPAPGPLPALLAAELRLRVLVPRPLGRRVGRVLRAPLVSGLLAVLPAGRVPAPLLAHLEPPPGELAAHRVRALQAGPAPPASPALRPGVYLLPLAGARLGAASVRAEPASLSPLTGDYRAELLGPVGALVPELRPGVLAGAVAAAPGLLLEGVLPAPGLPALAQLALRVLAGLGALLRRTLPSPAELLSVAHLLAVPALVLSVRASAVPRPPATGA"
+    ],
+    "Isoforms": [],
+    "Alternative Protein Names": [
+      "activated leukocyte antigen",
+      "T regulated protein 1"
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "gestational diabetes mellitus"
+    ],
+    "Source Material": [
+      "placental tissue",
+      "maternal plasma"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "data-independent acquisition proteomics",
+    "PubMed ID (PMID)": "35385222"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "endosialin",
+      "tumor endothelial marker 1",
+      "TEM1",
+      "CD248",
+      "clec14a"
+    ],
+    "Verification": "Confirmed, biomarkers are proteins.",
+    "Validation and Special Cases": {
+      "Isoform Implication": null,
+      "Accurate Categorization": "Confirmed"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67936eac0df7b3fd5be5fb0c"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "disease states",
+    "Source Material": "plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry",
+    "PubMed ID (PMID)": "21062094"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67936eaf0df7b3fd5be5fb0d"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Prdx6",
+      "Hsp70-1A/B",
+      "μ-calpain",
+      "MDH1",
+      "ENO3",
+      "LDH-B"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      null
+    ],
+    "Source Material": "Longissimus thoracis muscle",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "26160326"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Verification": "Confirmed as proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Accurate Categorization": "Aligned with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936eb50df7b3fd5be5fb0e"
+  },
+  "Protein Name(s)": "vitamin K-dependent protein S",
+  "UniProt ID": "P07212",
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "Alzheimer's disease",
+  "Source Material": "serum, hippocampus",
+  "Organism": "Homo sapiens",
+  "Technique Used": "LC-MS",
+  "PubMed ID (PMID)": "31727875",
+  "Alternative Protein Names": "PROS1",
+  "Verification": "Confirmed as protein",
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67936ec50df7b3fd5be5fb0f"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CD63",
+      "CD9",
+      "CD81",
+      "HSP72"
+    ],
+    "UniProt ID": [
+      "P08962",
+      "P40227",
+      "P60033",
+      "P08107"
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [],
+    "Source Material": "Conditioned medium of HEK293T cells",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Single-particle interferometric reflectance imaging sensor (SP-IRIS), Fluorescence imaging",
+    "PubMed ID (PMID)": "35068480"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      [
+        "Granulophysin",
+        "Lysosomal-associated membrane protein 3",
+        "MLA1"
+      ],
+      [
+        "Tetraspanin CD9"
+      ],
+      [
+        "Tetraspanin CD81"
+      ],
+      [
+        "Heat shock 70 kDa protein 1A",
+        "Heat shock 70 kDa protein 1B",
+        "Hsp70-1",
+        "HSP70"
+      ]
+    ],
+    "Verification": "Proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [],
+    "Accurate Categorization": "Protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67936ec80df7b3fd5be5fb10"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Neoplasms",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "Immunohistochemistry",
+    "PubMed ID (PMID)": "24525140"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": null,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67936eca0df7b3fd5be5fb11"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "protein biomarker",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "human serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Surface-enhanced Raman scattering (SERS)",
+    "PubMed ID (PMID)": "26874111"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": true,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67936ecc0df7b3fd5be5fb12"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "Top-down mass spectrometry",
+    "PubMed ID (PMID)": "21477672"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "The document discusses proteins as biomarkers"
+},
+{
+  "_id": {
+    "$oid": "67936ece0df7b3fd5be5fb13"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Multiple proteins",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "human disease",
+    "Source Material": "body fluids and tissues",
+    "Organism": "Homo sapiens",
+    "Technique Used": "2D capillary liquid chromatography (LC) and tandem mass spectrometry (MS/MS)",
+    "PubMed ID (PMID)": "16445351"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "Proteins",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373128b1332409e0055e8"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "proteins",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Pre-eclampsia",
+    "Source Material": "blood",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Mass Spectrometry, LC-MS/MS",
+    "PubMed ID (PMID)": "29737875"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "biomarkers refer to proteins": true
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "679373228b1332409e0055e9"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "protein biomarkers",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "biological matrix",
+    "Organism": "Homo sapiens",
+    "Technique Used": "immunoassay",
+    "PubMed ID": "21530130"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373278b1332409e0055ea"
+  },
+  "Protein Name(s)": null,
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": null,
+  "Source Material": "urine",
+  "Organism": "Homo sapiens",
+  "Technique Used": "proteomics",
+  "PubMed ID (PMID)": "21455690",
+  "Alternative Protein Names": null
+},
+{
+  "_id": {
+    "$oid": "6793732d8b1332409e0055eb"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "synaptic proteins",
+      "cytoskeletal proteins",
+      "antioxidant proteins",
+      "mitochondrial proteins",
+      "hormones",
+      "growth factors",
+      "transport proteins",
+      "inflammation-related proteins"
+    ],
+    "UniProt ID": [
+      null
+    ],
+    "Protein Sequence": [
+      null
+    ],
+    "Isoforms": [
+      null
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "psychiatric disorders"
+    ],
+    "Source Material": [
+      "post-mortem brain samples",
+      "serum",
+      "plasma"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "Mass spectrometry",
+      "two-dimensional gel electrophoresis",
+      "Multiplex immunoassay profiling"
+    ],
+    "PubMed ID (PMID)": "24524332"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null
+    ],
+    "Verification": "The extracted entities refer to protein biomarkers."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "6793733e8b1332409e0055ec"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "rheumatic disorders",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "proteomics",
+    "PubMed ID (PMID)": "22179724"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Identified Biomarkers are Proteins": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679373448b1332409e0055ed"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Not Specified",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Respiratory conditions, lung diseases",
+    "Source Material": "plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "LC-MS (liquid chromatography-mass spectrometry), solid-phase extraction (SPE), multidimensional LC-MS, trapping-micro-LC-MS",
+    "PubMed ID (PMID)": "35752151"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Protein check": true
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "679373498b1332409e0055ee"
+  },
+  "Protein Name(s)": null,
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "malignancies",
+  "Source Material": null,
+  "Organism": "Homo sapiens",
+  "Technique Used": "Surface plasmon resonance (SPR)",
+  "PubMed ID (PMID)": "30348366",
+  "Alternative Protein Names": null
+},
+{
+  "_id": {
+    "$oid": "6793734f8b1332409e0055ef"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "first episode psychosis",
+      "schizophrenia",
+      "psychotic disorders"
+    ],
+    "Source Material": "peripheral blood mononuclear cells (PBMCs)",
+    "Organism": "Homo sapiens",
+    "Technique Used": "SWATH-MS",
+    "PubMed ID (PMID)": "39218299"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "The identified biomarkers are proteins or peptides from a proteomic analysis of PBMC. Specifically it analyzes 389 proteins",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information is related to proteins and peptides."
+  }
+},
+{
+  "_id": {
+    "$oid": "679373548b1332409e0055f0"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "acute radiation injury",
+    "Source Material": "blood plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "tandem mass spectrometry and immunoassay",
+    "PubMed ID (PMID)": "30394814"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Identified biomarkers are proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "679373668b1332409e0055f1"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Neutrophil gelatinase-associated lipocalin (NGAL)",
+    "UniProt ID": "P80188",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "renal injury",
+      "acute renal injury",
+      "neoplasia",
+      "anemia",
+      "cardiovascular disease",
+      "chronic kidney disease",
+      "cardiorenal syndrome",
+      "pregnancy"
+    ],
+    "Source Material": [
+      "plasma",
+      "urine"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "immunoassays",
+    "PubMed ID (PMID)": "23104835"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Lipocalin-2",
+      "LCN2",
+      "oncogene 24p3",
+      "neutrophil gelatinase-associated lipocalin",
+      "25 kDa alpha-2-microglobulin-related protein"
+    ],
+    "Verification": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "6793736c8b1332409e0055f2"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Tyro 3",
+      "Axl",
+      "Mer",
+      "growth arrest-specific 6 (Gas6)"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "sepsis",
+      "septic shock"
+    ],
+    "Source Material": [
+      "plasma",
+      "bloodstream"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "31485279"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Verification": {
+    "Biomarker Type": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": []
+  }
+},
+{
+  "_id": {
+    "$oid": "679373728b1332409e0055f3"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "MCEMP1",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "advanced gastric cancer",
+    "Source Material": "tumor microenvironment",
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "transcriptome analysis (ESTIMATE, CIBERSORT algorithms)",
+      "protein-protein interaction (PPI)",
+      "Univariate Cox regression",
+      "immunohistochemistry (IHC)",
+      "quantitative real time PCR",
+      "Kaplan-Meier analysis",
+      "Multivariate Cox regression analysis",
+      "Gene set enrichment analysis (GSEA)"
+    ],
+    "PubMed ID (PMID)": "35905854"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "MCEMP1 refers to a protein, not a gene"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed, information aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373788b1332409e0055f4"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Tau protein",
+      "Transferrin"
+    ],
+    "UniProt ID": [
+      "P10636",
+      "P02787"
+    ],
+    "Protein Sequence": [
+      "Please retrieve from UniProt using P10636",
+      "Please retrieve from UniProt using P02787"
+    ],
+    "Isoforms": [
+      {
+        "Isoform Name": "phosphorylated tau protein",
+        "Sequence": "Please retrieve from UniProt and identify specific phosphorylation",
+        "Disease Association": "Alzheimer's disease"
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Alzheimer's disease"
+    ],
+    "Source Material": [
+      "cerebrospinal fluid",
+      "serum"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "20030226"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "MAPT",
+      "TF"
+    ],
+    "Verification": "Both mentioned are proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": "The phosphorylated form of tau is specifically mentioned as a diagnostic biomarker for Alzheimer's",
+    "Accurate Categorization": "Both Tau and transferrin are proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "6793737d8b1332409e0055f5"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Low-molecular-weight proteins",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "physiological and pathological events",
+    "Source Material": "serum/plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Mass spectrometry",
+    "PubMed ID (PMID)": "29054267"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "yes",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "yes"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373838b1332409e0055f6"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "cytochrome c",
+      "actin",
+      "histone",
+      "superoxide dismutase",
+      "α-synuclein",
+      "albumin",
+      "angiotensin II"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "cardiovascular disease"
+    ],
+    "Source Material": [
+      "tissue extracts"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "proteomics",
+      "mass spectrometry"
+    ],
+    "PubMed ID (PMID)": "21640858"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Verification": "Identified biomarkers refer to proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Information aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "6793738a8b1332409e0055f7"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Prestin",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "sensorineural hearing loss (SNHL)",
+    "Source Material": [
+      "blood",
+      "cerebrospinal fluid (CSF)",
+      "perilymph (PL)"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "enzyme-linked immunosorbent assay",
+    "PubMed ID (PMID)": "38988299"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Yes"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Yes"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373938b1332409e0055f8"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "C9orf72 protein",
+    "UniProt ID": "P84098",
+    "Protein Sequence": "MAAAPRRDAPRRRSHASVAPGLGPPLGRGRGGARRGLRGPGLRGSPSWRPLPSPTARLGTLSLAGSRLLSLDAPAGLGAGGARRPLGRLPSARWGRPLPLAPGAERAPVAAAAPSGDHPPGRVAVLSVGADGLRVVLAASRPGRVAAAARGADGGRHVAARLGAGRRVGQWLEGGGPALAAALAGPLAGPEEALALAWQWHRVLAATLAAYRLAGAGVLLRGLAWLLGLGPLVLGDALGVGTALLRAAALAATGPPLPRLGASRRRSWLGPRVPLRPPTLRGGSSSRLPSAGAGAVGAARRGLGARRRSAPSAEPLRVPRHPSQPHGRHLALSRKRLGLAGALRAAAALLLPGPRVAGGGPRRLGVLVAPLLGLRARGVPRAAAAAVAAAAVLALAAAAELARRRRARAVGPVAWRGLSRHHPAGTRGAEAAGEARLVAAELARRGPELGALPGRRLLSRGPASVLGPALVLSGARLLAGALGLARLPLRAGGGPGPPRAALGQLALSPGLAGARGRRLGLAERPLRALVLSLGAQLPGPQPALGLVLPAAAPPLRAALGGLAGPLLLSAARLHRVLVPAGLVHGPALGAASRALVALRPALRGPTRPLHPPALRALLVPAGRVVGGLPRPLRPGGPGVALLAHRPGLGGSPRAAGAAVGPALLPGPARVLAGALVA",
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "amyotrophic lateral sclerosis",
+      "frontotemporal dementia"
+    ],
+    "Source Material": [
+      "blood",
+      "cerebrospinal fluid"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "25261695"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Chromosome 9 open reading frame 72 protein"
+    ],
+    "Verification": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "6793739b8b1332409e0055f9"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "S-100 protein",
+      "Neurone-specific enolase"
+    ],
+    "UniProt ID": [
+      "P04271",
+      "P07323"
+    ],
+    "Protein Sequence": [
+      "MAPVTLTLAHNTYFRCFKYHDKYGCSRKQKLSLELKDLLKHLSSEEKELPEEGLAVVAAQLLTDEHVRVFQHLFKE",
+      "MSVSSQRLGLGPYTQEALDELIKVLKEEANAVDLAACGLKEDPELRKLQAVTDYVNLGFITSASEVLYMKMKGDYTPVDLDLKEDAGQIKVEFHSKNVPALTSKDALIAEGSKPFMVIAGSEAYDTEEQKAAAGFTEENKLVLLHGNKKISGYEVDLGVAKGAAFLGSQHGLAKRLNLDHPVLGTAVKSFLEDPGFMGPILVAYDLAFKTEGGKTAAKKVAALEGLRRIEEELGSN"
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Cerebral Ischaemia",
+      "Carotid Endarterectomy"
+    ],
+    "Source Material": [
+      "cerebrospinal fluid",
+      "serum",
+      "blood"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "Not Specified",
+    "PubMed ID (PMID)": "10947690"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Protein S100-B",
+      "NSE",
+      "2-phospho-D-glycerate hydro-lyase",
+      "enolase 1",
+      "enolase, gamma"
+    ],
+    "Verification": "Yes"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Yes"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373a18b1332409e0055fa"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "TDP-43",
+      "Tau"
+    ],
+    "UniProt ID": [
+      "Q13148",
+      "P10636"
+    ],
+    "Protein Sequence": [
+      null,
+      null
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Frontotemporal Lobar Degeneration",
+      "Behavioural variant frontotemporal dementia"
+    ],
+    "Source Material": [
+      "central nervous system"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "structural and functional neuroimaging techniques",
+      "biochemical and genetic biomarkers"
+    ],
+    "PubMed ID": "23648384"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "TARDBP",
+      "MAPT"
+    ],
+    "Verification": "true"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "true"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373aa8b1332409e0055fb"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "histidine-rich protein II",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "malaria",
+    "Source Material": [
+      "human plasma",
+      "whole blood"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "extraction with Nickel(II) nitrilotriacetic acid-functionalized magnetic particles",
+    "PubMed ID (PMID)": "22734432"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "pfHRPII",
+      "HRP2",
+      "PfHRP-II"
+    ],
+    "Verification": "This is a protein, not a gene."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information accurately refers to proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "679373bd8b1332409e0055fc"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Plasma proteins"
+    ],
+    "UniProt ID": [
+      null
+    ],
+    "Protein Sequence": [
+      null
+    ],
+    "Isoforms": [
+      {
+        "Isoform Name": null,
+        "Isoform Sequence": null
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "disease"
+    ],
+    "Source Material": [
+      "plasma",
+      "blood"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "mass spectrometry (MS)",
+      "Multiple reaction monitoring (MRM)",
+      "PRM"
+    ],
+    "PubMed ID (PMID)": "27341553"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null
+    ]
+  },
+  "Verification": {
+    "Verified Protein": true
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [
+      {
+        "Isoform Name": null,
+        "Isoform Sequence": null,
+        "Disease Association": null
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "679373c88b1332409e0055fd"
+  },
+  "biomarker_information": {
+    "protein_names": [
+      "bovine serum albumin",
+      "osteopontin",
+      "leptin",
+      "insulin-like growth factor II"
+    ],
+    "uniprot_ids": [
+      "P02769",
+      "P10451",
+      "P41159",
+      "P08026"
+    ],
+    "protein_sequences": [
+      "MKWVTFISLLFLFSSAYSRGVFRRDTHKSEIAHRFKDLGEEHFKGLVLIAFSQYLQQCPTFDKKTSKEVSHAKLRVPLGVAAGHVILADPQGAVSLLALETP-QRLQAWLKKDEDTQVLALLTKVAGHSLEGSLHGVNPEVGKKAHALAKAVTNVG-GLKVGVDQYLKGIGL-QLAALGSDGSFLKAAEGLEFGSQWFLKGVPALSAEGKLYEG-AHLGVLSHSPAEKHAL-A-AAHELVPGVSAAAEV-RFFSAVAGVVTSEAEELQGEEQPLVLALPGKPLQESVDQ-KAEELHGLG-AGWFEALLAGASHSKRGSSVGSGLA-LG-HLS-LVA-ASALAGGLQAGLLTGTGFGDLVEG-WGEAAQTN",
+      "MKQLRLCCLAALLAT-FC-PSALSKKSY-DLDP-QEFHDLADMDGD-EVPVPLPQYDSLDSS--KVVYGLR-SAPGGLSGGSAYGNVS-FDPQDMPVLG--GFLPPAPGLSPPTLLR-YGPPEAPRPPS-YGGPYGG-GY-YDS--G-YHAAGHA--WGDGKDGPQEGPDPRPRSR-CSIQKNDSQE---H--DGIPQ--QDTADKHTTLTDAPL-PHL-QSKKFDDPEDTDLTAVQ-APNSDT---PS-QPDQG-----GDYKL-----DKA",
+      "MVLSLQYLSFLLWACIPIALA--PGGLSGLPQGIPLGL--DILQLESLQLLDLALSHEE----RLVEELEDLLAVSRLDQLGSLQDMLWDFRLLKDAES---ALQEHLAGAVTLYGHLPQPLTVKMSPSTK------QTK-TL-NMYKQALLTIV---QQY-QILK-V---LK----M----",
+      "MGSSDTLRA---GF-I--ASR-LLQ----S---GLGAL-R-AY--AP----L-LL------LQ---SG---LR-D------P---AGR--GA-------EG----A-----L----AL-AE-LLR--G-GL--AEP-----S----PQ-SS---D-AAGLGLKGG-R-A----------GL-S--------A------LGLRSLT-K-GL------G---C--VGFK----Y------VDS--L-------QGSLR----C----N----------------A------R--G----------I--------VE---------A--A--L--------------V-T----------V--Y-L-----------D-------E-M---------C-------------------------------A--------G---------S----S-------C----------"
+    ],
+    "isoforms": [],
+    "alternative_protein_names": [
+      "Serum albumin",
+      "Bone sialoprotein 1",
+      "Obesity protein",
+      "Somatomedin C",
+      "IGF-II"
+    ]
+  },
+  "study_and_source_information": {
+    "disease_names": [],
+    "source_material": "phosphate-buffered saline solution",
+    "organism": "Homo sapiens",
+    "technique_used": "laser-induced breakdown spectroscopy (LIBS)",
+    "pubmed_id": "25226261"
+  },
+  "additional_information": {
+    "verification": "The biomarkers are proteins.",
+    "validation_special_cases": {
+      "isoform_implication": "null",
+      "accurate_categorization": "The information provided aligns with proteins."
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "679373ce8b1332409e0055fe"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "histones",
+      "synthetic peptides",
+      "recombinant proteins"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "autoimmune diseases",
+      "transplantation",
+      "cancer"
+    ],
+    "Source Material": [
+      "blood",
+      "cell culture supernatant"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "antigen arrays",
+    "PubMed ID (PMID)": "28986798"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null
+    ],
+    "Verification": "Confirmed proteins are mentioned not genes"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information aligns with proteins and not other biological molecules"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373d28b1332409e0055ff"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "65 proteins quantified",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Pathological conditions",
+    "Source Material": "serum, plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "targeted mass spectrometry",
+    "PubMed ID (PMID)": "30207162"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "true"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373da8b1332409e005600"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Glial fibrillary acidic protein",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": [
+      {
+        "Isoform Name": "GFAP α (canonical isoform)",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP β",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP γ",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP δ/ε",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP κ",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP μ",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP λ",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP ζ",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP+1 (GFAP∆Ex6)",
+        "Isoform Sequence": null
+      },
+      {
+        "Isoform Name": "GFAP+1 (GFAP∆Ex7)",
+        "Isoform Sequence": null
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "neurological diseases",
+      "Alzheimer's disease"
+    ],
+    "Source Material": [
+      "serum",
+      "plasma",
+      "cerebrospinal fluid (CSF)",
+      "blood"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "immunoassay"
+    ],
+    "PubMed ID (PMID)": "39289040"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "GFAP"
+    ],
+    "Verification": "Confirmed as protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373df8b1332409e005601"
+  },
+  "Protein Name(s)": "Prostate-specific antigen",
+  "UniProt ID": "P07288",
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "Prostate cancer",
+  "Source Material": "serum, blood, urine, tissue",
+  "Organism": "Homo sapiens",
+  "Technique Used": "proteomic discovery methods, mass spectrometry",
+  "PubMed ID (PMID)": "20398807",
+  "Alternative Protein Names": "gamma-seminoprotein, kallikrein-3, antigen p30",
+  "Verification": "The identified biomarker refers to a protein (not gene)",
+  "Isoform Implication": null,
+  "Accurate Categorization": "Information aligns with proteins and not other biological molecules"
+},
+{
+  "_id": {
+    "$oid": "679373e48b1332409e005602"
+  },
+  "Protein Name(s)": "Cystatin",
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": null,
+  "Source Material": null,
+  "Organism": "Homo sapiens",
+  "Technique Used": "mass spectrometric immunoassay",
+  "PubMed ID (PMID)": "22468814",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "679373f38b1332409e005603"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Cubulin",
+      "14-3-3 ζ"
+    ],
+    "UniProt ID": [
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "cadmium toxicity"
+    ],
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "1-D PAGE and nano-LC-MS/MS; LC-MS/MS analysis after 2-D PAGE",
+    "PubMed ID (PMID)": "21548089"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null
+    ],
+    "Verification": "The identified biomarkers refer to proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [],
+    "Accurate Categorization": "The information aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679373f98b1332409e005604"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": null,
+    "Technique Used": "next-generation proteomics, mass spectrometers",
+    "PubMed ID (PMID)": "25345346"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": null,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679374008b1332409e005605"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "caspase recruitment domain-containing protein 9",
+    "UniProt ID": "Q9BYU5",
+    "Protein Sequence": null,
+    "Isoforms": [
+      {
+        "Isoform Name": "Isoform 1",
+        "Isoform Sequence": null
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Lung adenocarcinoma",
+      "malignant pleural effusion",
+      "benign pleural effusion"
+    ],
+    "Source Material": "pleural effusion",
+    "Organism": "Homo sapiens",
+    "Technique Used": "matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF-MS)",
+    "PubMed ID (PMID)": "26945985"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "CARD-containing protein 9",
+      "CARD9"
+    ],
+    "Verification": "The identified biomarker refers to a protein."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": "Isoform 1 of CARD9 is decreased in malignant pleural effusion",
+    "Accurate Categorization": "The information aligns with proteins, not other biological molecules."
+  }
+},
+{
+  "_id": {
+    "$oid": "679374058b1332409e005606"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "tissues or body fluids",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Mass spectrometry",
+    "PubMed ID (PMID)": "22081350"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6793740a8b1332409e005607"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CA 15-3",
+      "CA-62"
+    ],
+    "UniProt ID": [
+      "P15941",
+      null
+    ],
+    "Protein Sequence": [
+      "null",
+      "null"
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "breast cancer",
+      "ductal carcinoma in situ"
+    ],
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "ELISA",
+      "CLIA"
+    ],
+    "PubMed ID (PMID)": "35786648"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "MUC1",
+      "null"
+    ],
+    "Verification": true
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [],
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "6793740f8b1332409e005608"
+  },
+  "Protein Name(s)": "immunoglobulin G",
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "various diseases",
+  "Source Material": null,
+  "Organism": "Homo sapiens",
+  "Technique Used": "glycoproteomic strategies, mass spectrometry",
+  "PubMed ID": "37169080",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "679374148b1332409e005609"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "apolipoprotein A1",
+    "UniProt ID": "P02647",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "urinary bladder cancer",
+    "Source Material": "urine",
+    "Organism": "Homo sapiens",
+    "Technique Used": "magnetic bead-based immunoassay",
+    "PubMed ID (PMID)": "25818137"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "Apo-AI; Apolipoprotein A-I; proapolipoprotein A-I",
+    "Verification": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "6793741a8b1332409e00560a"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "serum, plasma, supernatants",
+    "Organism": "Homo sapiens",
+    "Technique Used": "antibody-based protein microarrays, rolling circle amplification (RCA)",
+    "PubMed ID (PMID)": "12566005"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Identified biomarkers refer to proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "6793741f8b1332409e00560b"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "neurological diseases",
+    "Source Material": "cerebrospinal fluid (CSF)",
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry (MS), data-independent acquisition (DIA)",
+    "PubMed ID (PMID)": "31432406"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374248b1332409e00560c"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "colorectal cancer",
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "MALDI-TOF",
+    "PubMed ID (PMID)": "19244390"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "The study focuses on protein biomarkers in serum profiles."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The analysis is on serum protein profiles"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374308b1332409e00560d"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Histidine-rich glycoprotein",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "sepsis",
+    "Source Material": "plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "32378634"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679374358b1332409e00560e"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "proteins",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "electrochemical methods",
+    "PubMed ID (PMID)": "27428515"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "This article discusses electrochemical methods for analyzing clinically relevant biomolecules, including proteins."
+},
+{
+  "_id": {
+    "$oid": "6793743b8b1332409e00560f"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CD109",
+      "CD248"
+    ],
+    "UniProt ID": [
+      "P50213",
+      "Q9HC72"
+    ],
+    "Protein Sequence": [
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "gestational diabetes mellitus"
+    ],
+    "Source Material": [
+      "placental tissue",
+      "maternal plasma"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "data-independent acquisition proteomics",
+    "PubMed ID (PMID)": "35385222"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "150 kDa TGF-beta-binding protein",
+      "Activation-associated protein 14A3.4",
+      "CD109 antigen",
+      "Endosialin",
+      "Tumor endothelial marker 1",
+      "TEM1"
+    ],
+    "Verification": "Both CD109 and CD248 are proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [],
+    "Accurate Categorization": "Information accurately refers to proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "679374408b1332409e005610"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "plasma or serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "21622272"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679374508b1332409e005611"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "ocular diseases",
+      "systemic diseases",
+      "eye diseases"
+    ],
+    "Source Material": "tears",
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "Proteomics",
+      "Metabolomics"
+    ],
+    "PubMed ID (PMID)": "25488355"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Biomarker Type": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "679374568b1332409e005612"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "APEX2",
+      "RCSD1",
+      "TP53"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Hepatitis B-related hepatocellular carcinoma",
+      "HBV-infected HCC",
+      "hepatitis B (HBV)-related liver diseases"
+    ],
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Proteome microarray, ELISA",
+    "PubMed ID (PMID)": "38123112"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null
+    ],
+    "Verification": "Proteins, not genes"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": [],
+    "Accurate Categorization": "Proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374608b1332409e005613"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "cancer",
+    "Source Material": "tumor cells",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Antibody array",
+    "PubMed ID (PMID)": "26975971"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "679374658b1332409e005614"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "C-reactive protein"
+    ],
+    "UniProt ID": [
+      "P02741"
+    ],
+    "Protein Sequence": null,
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "atherosclerosis",
+      "cardiovascular diseases"
+    ],
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "proteomics",
+      "quantitative proteomics"
+    ],
+    "PubMed ID (PMID)": "18937558"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "CRP"
+    ],
+    "Verification": "Protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374728b1332409e005615"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "protein biomarkers",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Neoplasms",
+    "Source Material": "blood",
+    "Organism": "Homo sapiens",
+    "Technique Used": "immunoassay",
+    "PubMed ID (PMID)": "17892363"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "The article specifically mentions 'protein biomarkers', confirming these are proteins, not genes"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The extracted information focuses on protein-based biomarkers, ensuring the categorization aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374778b1332409e005616"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Lung cancer",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "flow cytometry, mass cytometry, microfluidics and chip technologies, chemical cytometry, single-cell western blotting",
+    "PubMed ID (PMID)": "29943297"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Confirmed: Refers to proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed: Information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "6793747c8b1332409e005617"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "cancer",
+    "Source Material": "body fluids",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Proteomics",
+    "PubMed ID (PMID)": "24361552"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Verified Biomarker": "true",
+    "Isoform Implication": "false",
+    "Accurate Categorization": "true"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374818b1332409e005618"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry",
+    "PubMed ID (PMID)": "21062094"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679374888b1332409e005619"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "CD63",
+      "CD9",
+      "CD81",
+      "HSP72"
+    ],
+    "UniProt ID": [
+      "P08962",
+      "P40235",
+      "P60033",
+      "P08107"
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "conditioned medium of HEK293T cells",
+    "Organism": "Homo sapiens",
+    "Technique Used": "single-particle interferometric reflectance imaging sensor (SP-IRIS), fluorescent colocalization",
+    "PubMed ID (PMID)": "35068480"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Lysosomal-associated membrane protein 3",
+      "Leukocyte antigen CD9",
+      "Tspan-28",
+      "Heat shock 70 kDa protein 2"
+    ],
+    "Verification": "The identified biomarkers are proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "6793748e8b1332409e00561a"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Tau protein",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": [
+      {
+        "isoform_name": "six major isoforms",
+        "sequence": null
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Neurodegenerative diseases",
+    "Source Material": "central nervous system (CNS)",
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "western blotting",
+      "polymerase chain reaction (PCR)",
+      "real-time PCR",
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "biosensors",
+      "nanotechnology",
+      "imaging",
+      "electrochemical",
+      "optical detection"
+    ],
+    "PubMed ID (PMID)": "38696096"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Yes, Tau protein is a protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Yes, the biomarker information refers to proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "679374a98b1332409e00561b"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "human disease",
+    "Source Material": "body fluids and tissues",
+    "Organism": "Homo sapiens",
+    "Technique Used": "2D capillary liquid chromatography (LC) and tandem mass spectrometry (MS/MS)",
+    "PubMed ID (PMID)": "16445351"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Proteins are mentioned as biomarkers."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Proteins are mentioned"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374ae8b1332409e00561c"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "saliva",
+    "Organism": "Homo sapiens",
+    "Technique Used": "liquid chromatography, two-dimensional gel electrophoresis",
+    "PubMed ID (PMID)": "36378438"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679374b68b1332409e00561d"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Galectin-3",
+    "UniProt ID": "P17931",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "sleep disorders",
+      "insomnia",
+      "insufficient sleep time",
+      "obstructive sleep apnea",
+      "cardiovascular disease"
+    ],
+    "Source Material": "bloodstream",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "39288581"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Gal-3",
+      "Mac-2",
+      "Lgals3"
+    ],
+    "Verification": "Protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374bd8b1332409e00561e"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Prdx6",
+      "Hsp70-1A/B",
+      "μ-calpain",
+      "MDH1",
+      "ENO3",
+      "LDH-B"
+    ],
+    "UniProt ID": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      null
+    ],
+    "Source Material": "Longissimus thoracis muscle",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "26160326"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Verification": "Proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374c38b1332409e00561f"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Neutrophil gelatinase-associated lipocalin",
+      "Cystatin C",
+      "Interleukin-18",
+      "Kidney injury molecule-1",
+      "Liver-type fatty acid-binding protein"
+    ],
+    "UniProt ID": [
+      "P80188",
+      "P01034",
+      "P14780",
+      "Q9H6N3",
+      "P07148"
+    ],
+    "Protein Sequence": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Isoforms": [
+      {
+        "Isoform Name": null,
+        "Sequence": null
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "acute kidney injury",
+      "chronic kidney disease"
+    ],
+    "Source Material": [
+      "plasma",
+      "urine"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "18277143"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "LCN2",
+      "CST3",
+      "IL18",
+      "HAVCR1",
+      "FABP1"
+    ],
+    "Verification": "The identified biomarkers refer to proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": "null",
+    "Accurate Categorization": "The information aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374d68b1332409e005620"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "22213582"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": null,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "679374db8b1332409e005621"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "disease-associated",
+    "Source Material": [
+      "serum",
+      "plasma",
+      "blood"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "18676364"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Verified as protein biomarkers."
+  }
+},
+{
+  "_id": {
+    "$oid": "679374e98b1332409e005622"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "N-terminal pro-brain type natriuretic peptide",
+      "high-sensitivity troponin T",
+      "galectin-3",
+      "high-sensitivity C-reactive protein"
+    ],
+    "UniProt ID": [
+      "P16860",
+      "P06736",
+      "P17931",
+      "P02741"
+    ],
+    "Protein Sequence": [
+      "Full sequence data is not provided in the article. The sequence will need to be fetched using the UniProt IDs.",
+      "Full sequence data is not provided in the article. The sequence will need to be fetched using the UniProt IDs.",
+      "Full sequence data is not provided in the article. The sequence will need to be fetched using the UniProt IDs.",
+      "Full sequence data is not provided in the article. The sequence will need to be fetched using the UniProt IDs."
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Heart failure"
+    ],
+    "Source Material": [
+      "Not explicitly specified in the article, but commonly found in blood (serum/plasma)."
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": "Not explicitly specified, likely ELISA, Immunoassay based on the context of 'high-sensitivity'",
+    "PubMed ID (PMID)": "33595788"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "NT-proBNP",
+      "cTnT",
+      "GAL3",
+      "CRP"
+    ],
+    "Verification": "Verified: The identified biomarkers refer to proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed: All information is categorized to proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374ed8b1332409e005623"
+  },
+  "Protein Name(s)": null,
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "cardiovascular disease",
+  "Source Material": "blood",
+  "Organism": "Homo sapiens",
+  "Technique Used": "proteomic analysis",
+  "PubMed ID (PMID)": "18667414",
+  "Alternative Protein Names": null
+},
+{
+  "_id": {
+    "$oid": "679374f38b1332409e005624"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Protein S",
+    "UniProt ID": "P07225",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "systemic lupus erythematosus",
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "21067626"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "PROS",
+      "PROS1",
+      "PS",
+      "THPH2"
+    ],
+    "Verification": "The identified biomarker refers to protein S, a protein."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The information correctly aligns with protein S, and not any other biological molecule"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374f88b1332409e005625"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Neoplasms",
+    "Source Material": "tissue",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Immunohistochemistry",
+    "PubMed ID (PMID)": "24525140"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Biomarkers mentioned are validated using antibodies, implying that they are proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "The paper focuses on the validation of antibodies used to detect protein biomarkers"
+  }
+},
+{
+  "_id": {
+    "$oid": "679374fd8b1332409e005626"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "ligand binding assays (LBA) and hyphenated mass spectrometric methods",
+    "PubMed ID (PMID)": "19038585"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": true,
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67937a9ef641dcf148b72027"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Multiple biomarkers (34 mentioned in total)",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Placenta accreta spectrum (PAS)",
+    "Source Material": "maternal serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "39004916"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "Yes, the identified biomarkers are stated as protein biomarkers in the text."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed. Biomarkers are identified as blood proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937aa3f641dcf148b72028"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "whole blood serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "Surface-enhanced laser desorption ionization time of flight mass spectrometry (SELDI-TOF-MS)",
+    "PubMed ID (PMID)": "20662595"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937aa8f641dcf148b72029"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "Mass Spectrometry",
+    "PubMed ID (PMID)": "22194635"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67937ab6f641dcf148b7202a"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "systemic lupus erythematosus",
+      "rheumatoid arthritis"
+    ],
+    "Source Material": "peripheral blood mononuclear cells (PBMC)",
+    "Organism": "Homo sapiens",
+    "Technique Used": "iTRAQ quantitative proteomics, tandem mass spectrometry",
+    "PubMed ID (PMID)": "21120503"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "Confirmed: This study identifies differentially expressed proteins, therefore, it does not contain information on gene expression, ensuring focus on the task.",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed: All data aligns with the required context of proteins and related molecular level, no non protein related content is included in extraction."
+  }
+},
+{
+  "_id": {
+    "$oid": "67937abdf641dcf148b7202b"
+  },
+  "Protein Name(s)": "human epidermal growth factor receptor 2",
+  "UniProt ID": null,
+  "Protein Sequence": null,
+  "Isoforms": null,
+  "Disease Name(s)": "breast cancer",
+  "Source Material": null,
+  "Organism": "Homo sapiens",
+  "Technique Used": "electrochemical",
+  "PubMed ID (PMID)": "28922492",
+  "Alternative Protein Names": null,
+  "Isoform Implication": null
+},
+{
+  "_id": {
+    "$oid": "67937ac3f641dcf148b7202c"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "multiple diseases",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry",
+    "PubMed ID (PMID)": "24720436"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": {
+    "Identified Biomarkers Are Proteins": true
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67937ac8f641dcf148b7202d"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Albumin",
+      "Immunoglobulins",
+      "Glycoproteins"
+    ],
+    "UniProt ID": [
+      "P02768",
+      "Varies per immunoglobulin",
+      null
+    ],
+    "Protein Sequence": [
+      "Full protein sequence from UniProt for Albumin.",
+      "Varies per immunoglobulin",
+      null
+    ],
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "two step procedure to remove albumin and immunoglobulins, enriched for glycoproteins, gel electrophoresis",
+    "PubMed ID (PMID)": "17669345"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Serum albumin",
+      "Varies per immunoglobulin",
+      null
+    ],
+    "Verification": "Confirmed as proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Correctly identified as proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937acff641dcf148b7202e"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "tau protein",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": [
+      {
+        "Isoform Name": "Disease-specific truncation and/or phosphorylation of tau protein fragments",
+        "Isoform Sequence": null
+      }
+    ]
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Corticobasal syndrome (CBS)",
+      "Corticobasal degeneration (CBD)",
+      "tauopathies"
+    ],
+    "Source Material": "cerebrospinal fluid (CSF)",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "24291870"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67937ad5f641dcf148b7202f"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "Procalcitonin",
+      "C-reactive protein"
+    ],
+    "UniProt ID": [
+      "P01258",
+      "P02741"
+    ],
+    "Protein Sequence": [
+      "null",
+      "null"
+    ],
+    "Isoforms": []
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Pneumonia"
+    ],
+    "Source Material": [
+      "serum"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "Not specified"
+    ],
+    "PubMed ID": "26772604"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      [
+        "PCT",
+        "CALCA",
+        "PD2",
+        "Catacalcin"
+      ],
+      [
+        "CRP"
+      ]
+    ],
+    "Verification": "Confirmed, proteins"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": "null",
+    "Accurate Categorization": "Confirmed"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937adaf641dcf148b72030"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Numerous established and potential biomarkers",
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "stress, disease, and environmental contamination",
+    "Source Material": "gill",
+    "Organism": "Danio rerio",
+    "Technique Used": "two-dimensional liquid chromatography-electrospray ionization tandem mass spectrometry",
+    "PubMed ID (PMID)": "19715488"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Verification": "Confirmed as proteins"
+},
+{
+  "_id": {
+    "$oid": "67937adff641dcf148b72031"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": "mass spectrometry",
+    "PubMed ID (PMID)": "24812416"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67937ae5f641dcf148b72032"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": [
+      "MBL2",
+      "HP",
+      "SFTPC",
+      "PRL",
+      "POMC",
+      "GCG",
+      "CUZD1",
+      "CPA2",
+      "MYBPC1",
+      "PTH",
+      "LPO",
+      "AMY1A",
+      "INSL3",
+      "KLK3",
+      "KLK4",
+      "MPO",
+      "ACP5"
+    ],
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": [
+      "Aging",
+      "age-related diseases"
+    ],
+    "Source Material": [
+      "plasma",
+      "serum"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "proteomics",
+      "data mining"
+    ],
+    "PubMed ID (PMID)": "37707684"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "These are proteins, not genes"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Information extracted aligns with proteins."
+  }
+},
+{
+  "_id": {
+    "$oid": "67937aeaf641dcf148b72033"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": null,
+    "UniProt ID": null,
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "various diseases",
+    "Source Material": [
+      "blood plasma",
+      "serum",
+      "urine"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+      "immunoaffinity chromatography",
+      "MS-based proteomics"
+    ],
+    "PubMed ID (PMID)": "26868616"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": null,
+    "Verification": "The identified biomarkers refer to proteins."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Information aligns with proteins"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937af0f641dcf148b72034"
+  },
+  "Protein Name(s)": [
+    "IL-1α",
+    "IL-6",
+    "IL-8",
+    "INF-γ",
+    "TNF-α",
+    "IL-1RA"
+  ],
+  "UniProt ID": [
+    "P01583",
+    "P05231",
+    "P10145",
+    "P01579",
+    "P01375",
+    "P01582"
+  ],
+  "Protein Sequence": [
+    "null",
+    "null",
+    "null",
+    "null",
+    "null",
+    "null"
+  ],
+  "Isoforms": [],
+  "Disease Name(s)": [
+    "acne",
+    "atopic dermatitis",
+    "pressure ulcers"
+  ],
+  "Source Material": [
+    "sebum"
+  ],
+  "Organism": "Homo sapiens",
+  "Technique Used": [
+    "immunoassay kits"
+  ],
+  "PubMed ID": "36572004",
+  "Alternative Protein Names": [
+    "Interleukin-1 alpha",
+    "Interleukin-6",
+    "Interleukin-8",
+    "Interferon gamma",
+    "Tumor necrosis factor alpha",
+    "Interleukin-1 receptor antagonist protein"
+  ],
+  "Verification": "yes",
+  "Isoform Implication": "null",
+  "Accurate Categorization": "yes"
+},
+{
+  "_id": {
+    "$oid": "67937af5f641dcf148b72035"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Neutrophil gelatinase-associated lipocalin",
+    "UniProt ID": "P80188",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "Acute kidney injury",
+    "Source Material": null,
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "21310736"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Lipocalin-2",
+      "LCN2",
+      "24p3"
+    ]
+  },
+  "Verification": "Protein",
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937afaf641dcf148b72036"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Fibrinopeptide A",
+    "UniProt ID": "P02671",
+    "Protein Sequence": "ADSGEGDFLAEGGGVRGPRVVERHQSACKDSDWPFCSDEDWNYKCPEGCR",
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "schizophrenia",
+    "Source Material": "serum",
+    "Organism": "Homo sapiens",
+    "Technique Used": "MALDI-TOF/TOF-MS",
+    "PubMed ID (PMID)": "24254984"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": [
+      "Fibrinogen alpha chain",
+      "FGA"
+    ],
+    "Verification": "Confirmed that it is protein."
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "Confirmed that information refers to protein not other molecules."
+  }
+},
+{
+  "_id": {
+    "$oid": "67937b00f641dcf148b72037"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "liver-type fatty acid binding protein",
+    "UniProt ID": "P07148",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": "chronic kidney disease",
+    "Source Material": "urine",
+    "Organism": "Homo sapiens",
+    "Technique Used": "ELISA",
+    "PubMed ID (PMID)": "16532260"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "Fatty acid-binding protein 1; FABP-1; L-FABP; Liver FABP; FABPL",
+    "Verification": "protein"
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": "protein"
+  }
+},
+{
+  "_id": {
+    "$oid": "67937b0cf641dcf148b72038"
+  },
+  "Biomarker Information": {
+    "Protein Name(s)": "Protein S",
+    "UniProt ID": "P07225",
+    "Protein Sequence": null,
+    "Isoforms": null
+  },
+  "Study and Source Information": {
+    "Disease Name(s)": null,
+    "Source Material": "human plasma",
+    "Organism": "Homo sapiens",
+    "Technique Used": null,
+    "PubMed ID (PMID)": "19492164"
+  },
+  "Additional Information": {
+    "Alternative Protein Names": "PROS; PROS1; PS",
+    "Verification": true
+  },
+  "Validation and Special Cases": {
+    "Isoform Implication": null,
+    "Accurate Categorization": true
+  }
+}]

@@ -1,0 +1,26 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": null,
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": [
+            "systemic lupus erythematosus",
+            "rheumatoid arthritis"
+        ],
+        "Source Material": "peripheral blood mononuclear cells (PBMC)",
+        "Organism": "Homo sapiens",
+        "Technique Used": "iTRAQ quantitative proteomics, tandem mass spectrometry",
+        "PubMed ID (PMID)": "21120503"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null
+    },
+    "Verification": "Confirmed: This study identifies differentially expressed proteins, therefore, it does not contain information on gene expression, ensuring focus on the task.",
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Confirmed: All data aligns with the required context of proteins and related molecular level, no non protein related content is included in extraction."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "Protein S",
+        "UniProt ID": "P07225",
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": null,
+        "Source Material": "human plasma",
+        "Organism": "Homo sapiens",
+        "Technique Used": null,
+        "PubMed ID (PMID)": "19492164"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": "PROS; PROS1; PS",
+        "Verification": true
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": true
+    }
+}

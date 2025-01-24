@@ -1,0 +1,51 @@
+{
+    "Protein Name(s)": [
+        "IL-1α",
+        "IL-6",
+        "IL-8",
+        "INF-γ",
+        "TNF-α",
+        "IL-1RA"
+    ],
+    "UniProt ID": [
+        "P01583",
+        "P05231",
+        "P10145",
+        "P01579",
+        "P01375",
+        "P01582"
+    ],
+    "Protein Sequence": [
+        "null",
+        "null",
+        "null",
+        "null",
+        "null",
+        "null"
+    ],
+    "Isoforms": [],
+    "Disease Name(s)": [
+        "acne",
+        "atopic dermatitis",
+        "pressure ulcers"
+    ],
+    "Source Material": [
+        "sebum"
+    ],
+    "Organism": "Homo sapiens",
+    "Technique Used": [
+        "immunoassay kits"
+    ],
+    "PubMed ID": "36572004",
+    "Alternative Protein Names": [
+        "Interleukin-1 alpha",
+        "Interleukin-6",
+        "Interleukin-8",
+        "Interferon gamma",
+        "Tumor necrosis factor alpha",
+        "Interleukin-1 receptor antagonist protein"
+    ],
+    "Verification": "yes",
+    "Isoform Implication": "null",
+    "Accurate Categorization": "yes"
+}

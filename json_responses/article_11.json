@@ -1,0 +1,19 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "Numerous established and potential biomarkers",
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "stress, disease, and environmental contamination",
+        "Source Material": "gill",
+        "Organism": "Danio rerio",
+        "Technique Used": "two-dimensional liquid chromatography-electrospray ionization tandem mass spectrometry",
+        "PubMed ID (PMID)": "19715488"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null
+    },
+    "Verification": "Confirmed as proteins"
+}

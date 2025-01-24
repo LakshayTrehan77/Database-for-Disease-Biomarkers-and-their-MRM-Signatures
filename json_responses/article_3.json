@@ -1,0 +1,18 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": null,
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": null,
+        "Source Material": null,
+        "Organism": "Homo sapiens",
+        "Technique Used": "Mass Spectrometry",
+        "PubMed ID (PMID)": "22194635"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null
+    }
+}

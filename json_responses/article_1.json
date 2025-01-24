@@ -1,0 +1,23 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "Multiple biomarkers (34 mentioned in total)",
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "Placenta accreta spectrum (PAS)",
+        "Source Material": "maternal serum",
+        "Organism": "Homo sapiens",
+        "Technique Used": null,
+        "PubMed ID (PMID)": "39004916"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null,
+        "Verification": "Yes, the identified biomarkers are stated as protein biomarkers in the text."
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Confirmed. Biomarkers are identified as blood proteins"
+    }
+}

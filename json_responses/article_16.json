@@ -1,0 +1,27 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "Neutrophil gelatinase-associated lipocalin",
+        "UniProt ID": "P80188",
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "Acute kidney injury",
+        "Source Material": null,
+        "Organism": "Homo sapiens",
+        "Technique Used": null,
+        "PubMed ID (PMID)": "21310736"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": [
+            "Lipocalin-2",
+            "LCN2",
+            "24p3"
+        ]
+    },
+    "Verification": "Protein",
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Protein"
+    }
+}

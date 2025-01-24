@@ -1,0 +1,25 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": null,
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "multiple diseases",
+        "Source Material": null,
+        "Organism": "Homo sapiens",
+        "Technique Used": "mass spectrometry",
+        "PubMed ID (PMID)": "24720436"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null
+    },
+    "Verification": {
+        "Identified Biomarkers Are Proteins": true
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": true
+    }
+}

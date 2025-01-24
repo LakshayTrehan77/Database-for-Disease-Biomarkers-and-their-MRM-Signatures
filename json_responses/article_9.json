@@ -1,0 +1,27 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "tau protein",
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": [
+            {
+                "Isoform Name": "Disease-specific truncation and/or phosphorylation of tau protein fragments",
+                "Isoform Sequence": null
+            }
+        ]
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": [
+            "Corticobasal syndrome (CBS)",
+            "Corticobasal degeneration (CBD)",
+            "tauopathies"
+        ],
+        "Source Material": "cerebrospinal fluid (CSF)",
+        "Organism": "Homo sapiens",
+        "Technique Used": null,
+        "PubMed ID (PMID)": "24291870"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null
+    }
+}

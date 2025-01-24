@@ -1,0 +1,48 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": [
+            "Procalcitonin",
+            "C-reactive protein"
+        ],
+        "UniProt ID": [
+            "P01258",
+            "P02741"
+        ],
+        "Protein Sequence": [
+            "null",
+            "null"
+        ],
+        "Isoforms": []
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": [
+            "Pneumonia"
+        ],
+        "Source Material": [
+            "serum"
+        ],
+        "Organism": "Homo sapiens",
+        "Technique Used": [
+            "Not specified"
+        ],
+        "PubMed ID": "26772604"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": [
+            [
+                "PCT",
+                "CALCA",
+                "PD2",
+                "Catacalcin"
+            ],
+            [
+                "CRP"
+            ]
+        ],
+        "Verification": "Confirmed, proteins"
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": "null",
+        "Accurate Categorization": "Confirmed"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": [
+            "Albumin",
+            "Immunoglobulins",
+            "Glycoproteins"
+        ],
+        "UniProt ID": [
+            "P02768",
+            "Varies per immunoglobulin",
+            null
+        ],
+        "Protein Sequence": [
+            "Full protein sequence from UniProt for Albumin.",
+            "Varies per immunoglobulin",
+            null
+        ],
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": null,
+        "Source Material": "serum",
+        "Organism": "Homo sapiens",
+        "Technique Used": "two step procedure to remove albumin and immunoglobulins, enriched for glycoproteins, gel electrophoresis",
+        "PubMed ID (PMID)": "17669345"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": [
+            "Serum albumin",
+            "Varies per immunoglobulin",
+            null
+        ],
+        "Verification": "Confirmed as proteins"
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Correctly identified as proteins"
+    }
+}

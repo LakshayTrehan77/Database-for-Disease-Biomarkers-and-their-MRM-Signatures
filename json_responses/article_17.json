@@ -1,0 +1,26 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "Fibrinopeptide A",
+        "UniProt ID": "P02671",
+        "Protein Sequence": "ADSGEGDFLAEGGGVRGPRVVERHQSACKDSDWPFCSDEDWNYKCPEGCR",
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "schizophrenia",
+        "Source Material": "serum",
+        "Organism": "Homo sapiens",
+        "Technique Used": "MALDI-TOF/TOF-MS",
+        "PubMed ID (PMID)": "24254984"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": [
+            "Fibrinogen alpha chain",
+            "FGA"
+        ],
+        "Verification": "Confirmed that it is protein."
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Confirmed that information refers to protein not other molecules."
+    }
+}

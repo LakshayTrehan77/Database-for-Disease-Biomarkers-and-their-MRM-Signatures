@@ -1,0 +1,23 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": "liver-type fatty acid binding protein",
+        "UniProt ID": "P07148",
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "chronic kidney disease",
+        "Source Material": "urine",
+        "Organism": "Homo sapiens",
+        "Technique Used": "ELISA",
+        "PubMed ID (PMID)": "16532260"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": "Fatty acid-binding protein 1; FABP-1; L-FABP; Liver FABP; FABPL",
+        "Verification": "protein"
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "protein"
+    }
+}

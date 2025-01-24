@@ -1,0 +1,30 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": null,
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": "various diseases",
+        "Source Material": [
+            "blood plasma",
+            "serum",
+            "urine"
+        ],
+        "Organism": "Homo sapiens",
+        "Technique Used": [
+            "immunoaffinity chromatography",
+            "MS-based proteomics"
+        ],
+        "PubMed ID (PMID)": "26868616"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null,
+        "Verification": "The identified biomarkers refer to proteins."
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Information aligns with proteins"
+    }
+}

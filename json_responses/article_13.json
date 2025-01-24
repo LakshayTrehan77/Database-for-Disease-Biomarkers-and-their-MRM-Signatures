@@ -1,0 +1,50 @@
+{
+    "Biomarker Information": {
+        "Protein Name(s)": [
+            "MBL2",
+            "HP",
+            "SFTPC",
+            "PRL",
+            "POMC",
+            "GCG",
+            "CUZD1",
+            "CPA2",
+            "MYBPC1",
+            "PTH",
+            "LPO",
+            "AMY1A",
+            "INSL3",
+            "KLK3",
+            "KLK4",
+            "MPO",
+            "ACP5"
+        ],
+        "UniProt ID": null,
+        "Protein Sequence": null,
+        "Isoforms": null
+    },
+    "Study and Source Information": {
+        "Disease Name(s)": [
+            "Aging",
+            "age-related diseases"
+        ],
+        "Source Material": [
+            "plasma",
+            "serum"
+        ],
+        "Organism": "Homo sapiens",
+        "Technique Used": [
+            "proteomics",
+            "data mining"
+        ],
+        "PubMed ID (PMID)": "37707684"
+    },
+    "Additional Information": {
+        "Alternative Protein Names": null,
+        "Verification": "These are proteins, not genes"
+    },
+    "Validation and Special Cases": {
+        "Isoform Implication": null,
+        "Accurate Categorization": "Information extracted aligns with proteins."
+    }
+}
